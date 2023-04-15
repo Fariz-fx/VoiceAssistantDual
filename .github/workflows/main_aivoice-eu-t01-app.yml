@@ -74,3 +74,4 @@ jobs:
           app-name: 'aivoice-eu-t01-app'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DB57782425D94803B0E39FC997BBE55B }}
+          verbose: true
