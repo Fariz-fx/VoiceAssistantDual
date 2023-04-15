@@ -1,0 +1,10 @@
+openai
+boto3
+pydub
+SpeechRecognition
+azure-cognitiveservices-speech
+EdgeGPT
+openai-whisper
+git+https://github.com/openai/whisper.git
+ffmpeg-python
+pyaudio
